@@ -29,14 +29,23 @@ using React Router, localStorage-based authentication, and API data fetching.
 ## 🗂 Folder Structure
 
 src/
+
 ├── components/
+
 │ ├── Home.jsx
+
 │ ├── Login.jsx
+
 │ ├── Todos.jsx
+
 │ ├── TodoDetails.jsx
+
 │ ├── ProtectedRoute.jsx
+
 ├── App.js
+
 ├── index.js
+
 └── App.css
 
 ---
